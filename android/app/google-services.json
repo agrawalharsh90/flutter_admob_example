@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213074264753",
+    "firebase_url": "https://flutter-admob-example.firebaseio.com",
+    "project_id": "flutter-admob-example",
+    "storage_bucket": "flutter-admob-example.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213074264753:android:2619469b396c3e2394d890",
+        "android_client_info": {
+          "package_name": "com.hyathi.flutter_admob_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213074264753-9mi4ps7nnbqnqe2hk25gec0tlfgc23aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hyathi.flutter_admob_example",
+            "certificate_hash": "771a7c87cf1458863ad1c8894fe6ebd9ccab9291"
+          }
+        },
+        {
+          "client_id": "213074264753-9blp2comb7eglgetkvrmgfcqg68ooi2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKMIow62uYut-H1SaTHALvQvi41XGDR_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213074264753-9blp2comb7eglgetkvrmgfcqg68ooi2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
